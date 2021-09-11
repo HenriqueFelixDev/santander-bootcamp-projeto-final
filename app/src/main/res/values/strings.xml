@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="search_hint">Pesquisar</string>
+    <string name="btn_toggle_status_description">Marcar/Desmarcar Tarefa</string>
+    <string name="task_hint">Tarefa</string>
+    <string name="start_date_hint">Início</string>
+    <string name="end_date_hint">Término</string>
+    <string name="task_no_duration">Sem data</string>
+    <string name="task_no_start">Sem data de início</string>
+    <string name="task_no_end">Sem data de término</string>
+    <string name="save_button">Salvar</string>
+    <string name="cancel_button">Cancelar</string>
+    <string name="create_task_title">Nova Tarefa</string>
+    <string name="edit_task_title">Editar Tarefa</string>
+    <string name="confirm_delete_title">Confirmação de exclusão</string>
+    <string name="confirm_delete_message">Você realmente deseja excluir a tarefa "{0}"?</string>
+    <string name="yes_button">Sim</string>
+    <string name="empty_tasks_message">Nenhum item encontrado!</string>
+</resources>
